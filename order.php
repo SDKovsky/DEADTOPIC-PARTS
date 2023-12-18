@@ -17,7 +17,7 @@
     </div>
 
       <div class='menu'>
-          <a class="my-button" href="index.html">HOME</a>
+          <a class="my-button"style='color: red' href="index.html">HOME</a>
           <a class="my-button" href="product.php">PRODUCT</a>
           <a class="my-button" href="order.php">ORDER</a>
           <a class="my-button" href="contacts.php">CONTACTS</a>
