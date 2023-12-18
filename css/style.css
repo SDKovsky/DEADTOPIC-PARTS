@@ -5,6 +5,15 @@ body {
     background-size: cover;
 }
 
+.element {
+  opacity: 0;
+  transition: opacity 2s ease;
+}
+
+.element.visible {
+  opacity: 1;
+}
+
 b {
   color: #fafafa;
   font-family: 'DIN Pro', sans-serif;
